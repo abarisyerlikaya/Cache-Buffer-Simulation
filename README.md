@@ -1,8 +1,7 @@
 # Cache-Buffer-Simulation
 
 Implementation of a cache buffer simulation by doubly linked list. Programmed in C.
-Requests stored in a doubly linked list.
-
+Screenshots from running of the program for an input file is below the wiki tab.
 
 What does the program do:
 
@@ -23,3 +22,4 @@ What does the program do:
       
   5. Clears cache:
       a. At the end of the program, system asks if user wants to clear cache. If user wants, system clears cache.
+
