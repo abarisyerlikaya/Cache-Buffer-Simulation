@@ -1,0 +1,10 @@
+T=2, L=3
+AB
+BA
+CY
+AB
+CY
+XYZ
+BA
+XYZ
+BA
