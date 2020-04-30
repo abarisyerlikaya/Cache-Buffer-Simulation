@@ -1,7 +1,6 @@
 # Cache-Buffer-Simulation
 
 Implementation of a cache buffer simulation by doubly linked list. Programmed in C.
-Screenshots from running of the program for an input file is below the wiki tab.
 
 What does the program do:
 
