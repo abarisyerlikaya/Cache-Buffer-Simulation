@@ -22,4 +22,11 @@ What does the program do:
       
   5. Clears cache:
       a. At the end of the program, system asks if user wants to clear cache. If user wants, system clears cache.
+      
+# Screenshots:
+![](https://i.imgur.com/zoNLkjI.png)
+![](https://i.imgur.com/pQAzsWA.png)
+
+![](https://i.imgur.com/kYqBRsC.png)
+![](https://i.imgur.com/p0KCLxs.png)
 
