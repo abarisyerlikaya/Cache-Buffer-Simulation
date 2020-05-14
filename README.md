@@ -2,7 +2,7 @@
 
 Implementation of a cache buffer simulation by doubly linked list. Programmed in C.
 
-What does the program do:
+### What Does the Program Do
 
   1. Reads the requests:
       a. User can enter manually or program reads from a text file line by line.
