@@ -23,11 +23,9 @@ Implementation of a cache buffer simulation by doubly linked list. Programmed in
       * At the end of the program, system asks if user wants to clear cache. If user wants, system clears cache.
       
 ### Screenshots
-![](https://i.imgur.com/pQAzsWA.png)
-![](https://i.imgur.com/zoNLkjI.png)
+<img src="images/1.png"/> <img src="images/2.png"/>
 
 
-![](https://i.imgur.com/p0KCLxs.png)
-![](https://i.imgur.com/kYqBRsC.png)
+<img src="images/3.png"/> <img src="images/4.png"/>
 
 
